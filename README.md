@@ -5,7 +5,7 @@ Temas: Estructuras condicionales, funciones predefinidas
 Repositorio con los ejercicios correspondientes al práctico nº2 de la cátedra de Laboratorio de Software II.
 
 ```
-TP01_CastroMacielLeandroRamon
+TP02_CastroMacielLeandroRamon
 ├── Ejercicio-XX/
     ├── css/
     ├── font/
